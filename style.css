@@ -51,7 +51,7 @@ body {
   height: 6vw;
   width: 6vw;
   border-radius: 50%;
-  background-color: orangered;
+  background-color: black;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -63,7 +63,7 @@ body {
 #mouseCursor h4 {
   font-size: 1.15vw;
   font-weight: 300;
-  color: #000;
+  color: #fff;
 }
 
 .page1-Content {
